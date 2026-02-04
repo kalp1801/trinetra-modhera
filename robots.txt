@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /dev/third_eye/
