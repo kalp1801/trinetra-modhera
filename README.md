@@ -1,16 +1,21 @@
 # Project Trinetra Archive
 
-This repository contains archived monitoring records
-from the Modhera sector.
+This repository serves as a public archive of
+monitoring infrastructure records
+from the Modhera surveillance sector.
 
-Following the security breach incident,
-several nodes were relocated
-to external mirrors for preservation.
+Following a major security breach,
+multiple observation nodes were isolated
+and relocated to external mirror systems
+for long-term preservation.
 
-Most active systems were decommissioned,
-however, older system backups
-may still contain deployment information.
+Primary control servers were
+permanently decommissioned.
 
-Due to classification policies,
-direct access to infrastructure records
-is restricted.
+However, legacy system backups
+and synchronization records
+may still reference active endpoints.
+
+Due to internal classification policies,
+direct access to operational infrastructure
+has been restricted.
