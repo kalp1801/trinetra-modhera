@@ -1,10 +1,16 @@
 # Project Trinetra Archive
 
-Archived monitoring records – Modhera Sector.
+This repository contains archived monitoring records
+from the Modhera sector.
 
-Following the breach incident,
+Following the security breach incident,
 several nodes were relocated
-to external mirrors.
+to external mirrors for preservation.
 
-Older system backups
-may contain deployment data.
+Most active systems were decommissioned,
+however, older system backups
+may still contain deployment information.
+
+Due to classification policies,
+direct access to infrastructure records
+is restricted.
